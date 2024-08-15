@@ -1,3 +1,4 @@
 # Prueba
 Modificacion
-Modificacion nueva
+Modificacion deade Git a GitHub usando Push
+Modificacion desde GitHub usando Pull
